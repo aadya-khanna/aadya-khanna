@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I am Aadya </h1>
 <h3 align="center"> Incoming CS + Finance at Waterloo </h3>
 
-- 🌱 I’m currently learning **Front-end design, DSA, working with data-bases**
+- 🌱 I’m currently learning **fullstack development, DSA, working with data-bases**
 
 - Check out my portfolio! [https://www.aadyakhanna.com](https://www.aadyakhanna.com)
 
