@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I am Aadya</h1>
 <h3 align="center">Incoming CS + Finance at University of Waterloo</h3>
 
-- 🔭 I’m currently working on **a financial literacy app for middleschoolers**
+- 🔭 I’m currently working on **a financial literacy app for elementary schoolers** and creating as many projects with JS as I cannn over the summer!
 
 - 🌱 I’m currently learning **full stack dev, DSA**
 
