@@ -14,6 +14,3 @@
 <a href="https://medium.com/@aadyakhanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aadyakhanna" height="30" width="40" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=aadya-khanna&color=ff69b4&style=flat-square)
-
-
