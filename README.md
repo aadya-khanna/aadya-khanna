@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I am Aadya</h1>
 <h3 align="center">CS & Finance at University of Waterloo</h3>
 
-- 🚀 Currently shipping 1 fin-tech projects + learning ML for finance :)
+- 🚀 Currently shipping 1 fin-tech and 1 JS-heavy project + learning ML for finance and basics of application system design :)
 
 - 💬 Get to know me more -> [https://www.aadyakhanna.com](https://www.aadyakhanna.com)
 
