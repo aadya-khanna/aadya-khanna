@@ -15,12 +15,7 @@ I'm a second-year **Computing and Financial Management** student at the Universi
 
 **Get to know me:** [aadyakhanna.com](https://www.aadyakhanna.com)
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadya-khanna&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e8b4b8&icon_color=e8b4b8&text_color=c9d1d9" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadya-khanna&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e8b4b8&text_color=c9d1d9" alt="Top Languages" height="170" />
-</div>
+### 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadya-khanna&theme=radical&hide_border=true&background=0D1117&ring=e8b4b8&fire=e8b4b8&currStreakLabel=e8b4b8" alt="GitHub Streak" />
@@ -28,12 +23,10 @@ I'm a second-year **Computing and Financial Management** student at the Universi
 
 ---
 
-### 🎵 Currently Vibing To
-
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=7j0lfxxldwy3p66ulyp3f44eo&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=e8b4b8&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="50" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="50" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="50" />
 </div>
 
 
