@@ -15,14 +15,6 @@ I'm a second-year **Computing and Financial Management** student at the Universi
 
 **Get to know me:** [aadyakhanna.com](https://www.aadyakhanna.com)
 
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadya-khanna&theme=radical&hide_border=true&background=0D1117&ring=e8b4b8&fire=e8b4b8&currStreakLabel=e8b4b8" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="50" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="50" />
