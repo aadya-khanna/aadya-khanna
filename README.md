@@ -13,6 +13,7 @@ I'm a second-year **Computing and Financial Management** student at the Universi
 - 💻 **Open Source Developer** @ Organization for Transformative Works (AO3) - contributing to the best site in the world!
 - 🚀 Learning AI fundamentals, math behind models, and production design for AI systems
 - ⚙️ Ongoing projects (check out the repo/s!): multi-agent emergent simulation research
+- 💡 Interested in AI governance, local models, graph engineering, autonomous agent loops
 
 **Get to know me:** [aadyakhanna.com](https://www.aadyakhanna.com)
 
